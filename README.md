@@ -4,15 +4,15 @@
 
 <div align=center>
 
-<a href="https://juejin.cn/user/853651045488455/posts"><img src="https://img.shields.io/badge/Juejin-1e80ff?style=for-the-badge&logo=juejin&logoColor=white" alt="Juejin"></a>
-<a href="https://blog.csdn.net/qq_43775179"><img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"></a>
 <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue">
 <img src="https://img.shields.io/badge/React-5FC8E0?style=for-the-badge&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/Nodejs-417E38?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs">
 <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br/>
+<a href="https://juejin.cn/user/853651045488455/posts"><img src="https://img.shields.io/badge/Juejin-1e80ff?style=for-the-badge&logo=juejin&logoColor=white" alt="Juejin"></a>
+<a href="https://blog.csdn.net/qq_43775179"><img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"></a>
 </div>
 
 
