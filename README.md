@@ -19,8 +19,7 @@
 
 <p align="center">
   <img height="190px" src="https://github-readme-stats.vercel.app/api?username=gitboyzcf&show_icons=true&theme=Default" alt="gitboyzcf's Github Stats" />
-<!--   <img alt="gitboyzcf's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gitboyzcf&show_icons=true&count_private=true&theme=graywhite&hide_border=true&bg_color=fff&title_color=blue&icon_color=blue" height="140px"/> -->
-  <img  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitboyzcf&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitboyzcf&layout=compact" alt="Top Langs" />
 </p>
 <p align="center">
    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Demo" style="max-width: 100%;">
