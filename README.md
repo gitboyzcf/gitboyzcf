@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br/>
+<img src="https://img.shields.io/badge/Uniapp-20942F?style=for-the-badge&logo=uniapp&logoColor=white" alt="uniapp">
+<img src="https://img.shields.io/badge/Taro-0027B3?style=for-the-badge&logo=taro&logoColor=white" alt="taro"><br/>
 <a href="https://juejin.cn/user/853651045488455/posts"><img src="https://img.shields.io/badge/Juejin-1e80ff?style=for-the-badge&logo=juejin&logoColor=white" alt="Juejin"></a>
 <a href="https://blog.csdn.net/qq_43775179"><img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"></a>
 </div>
