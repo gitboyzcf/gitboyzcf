@@ -6,6 +6,7 @@
 
 <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue">
 <img src="https://img.shields.io/badge/React-5FC8E0?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Three-333333?style=for-the-badge&logo=three.js&logoColor=white" alt="Three">
 <img src="https://img.shields.io/badge/Nodejs-417E38?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs">
 <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
