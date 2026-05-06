@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br/>
 <img src="https://img.shields.io/badge/Uniapp-20942F?style=for-the-badge&logo=uniapp&logoColor=white" alt="uniapp">
 <img src="https://img.shields.io/badge/Taro-0027B3?style=for-the-badge&logo=taro&logoColor=white" alt="taro"><br/>
+<img src="https://img.shields.io/badge/GoLang-7FD4FC?style=for-the-badge&logo=go&logoColor=white" alt="golang"><br/>
 <a href="https://juejin.cn/user/853651045488455/posts"><img src="https://img.shields.io/badge/Juejin-1e80ff?style=for-the-badge&logo=juejin&logoColor=white" alt="Juejin"></a>
 <a href="https://blog.csdn.net/qq_43775179"><img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"></a>
 </div>
