@@ -21,11 +21,11 @@
 
 
 <p align="center">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=gitboyzcf&show_icons=true&theme=Default" alt="gitboyzcf's Github Stats" />
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitboyzcf&layout=compact" alt="Top Langs" />
+  <a href="https://github.com/gitboyzcf"><img align="center" src="https://github-readme-stats-steel-two-22.vercel.app/api?username=gitboyzcf&show_icons=true&theme=vue&hide=prs&hide_border=true&count_private=true" alt="Anurag's github stats" /></a>
+  <a href="https://github.com/gitboyzcf"><img align="center" src="https://github-readme-stats-steel-two-22.vercel.app/api/top-langs/?username=gitboyzcf&theme=vue&layout=compact&hide_border=true" /></a>
 </p>
-| <a href="https://github.com/gitboyzcf"><img align="center" src="https://github-readme-stats-steel-two-22.vercel.app/api?username=gitboyzcf&show_icons=true&theme=vue&hide=prs&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gitboyzcf"><img align="center" src="https://github-readme-stats-steel-two-22.vercel.app/api/top-langs/?username=gitboyzcf&theme=vue&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+
 <p align="center">
    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Demo" style="max-width: 100%;">
 </p>
